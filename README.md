@@ -36,6 +36,11 @@ That way it does not leave a bunch of files in the base directory.
 Once you Dump the files, or move the files, or copy the files,
 Make sure to copy the config.sample.php into a file called config.php
 
+~~~
+cp config.sample.php config.php
+~~~
+
+
 So now we should have a new file in there like this:
 ~~~
 +--- ~/Sites/
