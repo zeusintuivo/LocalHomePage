@@ -65,7 +65,9 @@ $siteoptions = array(
 *  your directories will be hidden.
 * 
 */
+
 $hiddensites = array( 'home', "css", "docs", "logs", "cgi-bin", "img", "index.php",
     "config.sample.php", "config.php", "info.php", "README.md",
     "access_log", "error_log", "phpinfo", "index.html");
 //$ignore_array = array("css", "docs", "logs", "cgi-bin", "img", "index.php", "config-sample.php", "config.php", "info.php", "README.md");
+
